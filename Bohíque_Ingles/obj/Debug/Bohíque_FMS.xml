@@ -1,0 +1,131 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Bohíque_FMS
+</name>
+</assembly>
+<members>
+<member name="T:Bohíque_FMS.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources._Error">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Accept">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Boton">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Boton_Bloqueo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Boton_Estrella_Llena">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Boton_Estrella_Vacia">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Boton_Libre">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Boton_Verde">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Boton_Verde_Cambio">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Cambio_Boton">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Disk">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Disk_Multiple">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Document_Inspector">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Document_Move">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Document_Shred">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Fondo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Hide_password_48">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Inicio">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Logo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Show_password_48">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Bohíque_FMS.My.Resources.Resources.Vcard_Delete">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
